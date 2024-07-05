@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+
+I'm Preston form NY. I am a student studying Mathematics and Computer Science at Lehman College. I enjoy making websites and learning how make them better. 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrestBlake25)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **PrestBlake25/PrestBlake25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
