@@ -1,7 +1,12 @@
 ## Hi there 👋
 
 
-I'm Preston form NY. I am a student studying Mathematics and Computer Science at Lehman College. I enjoy making websites and learning how make them better. 
+I'm Preston 
+- :desktop_computer: I am a student studying Mathematics and Computer Science at Lehman College. 
+- :shushing_face: I am a New Yorker
+- :computer: I'm learning Web Development and Data Science
+- :smile: Pronouns: He/him
+- Fun Facts: Gamer 🎮, Traveller ✈️
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrestBlake25)](https://github.com/anuraghazra/github-readme-stats)
