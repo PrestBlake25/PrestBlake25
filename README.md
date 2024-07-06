@@ -13,7 +13,7 @@
 [![Preston's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrestBlake25)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Links To Socials</h3>
-<a href="www.linkedin.com/in/preston-blake25">
+<a href="https://www.linkedin.com/in/preston-blake25/">
   <img align="left" alt="Preston's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
