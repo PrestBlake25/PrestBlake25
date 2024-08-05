@@ -36,6 +36,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prestblake25&show_icons=true&locale=en" alt="prestblake25" /></p>
 
 
+## #30NitesOfCode:
+  [My Progress!](https://www.codedex.io/@Devil2fly/30-nites-of-code)  
+  ![@Devil2fly #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Devil2fly)
+
 <!--
 **PrestBlake25/PrestBlake25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
