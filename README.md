@@ -18,7 +18,7 @@
 </a>
 -->
 <h1 align="center">Hi 👋, I'm Preston</h1>
-<h3 align="center">Mathematics Student at Lehman College, Minor in CS </h3>
+<h3 align="center"> 👨🏾‍💻 Mathematics Student at Lehman College, Minors in CS and Stats 🧮</h3>
 
 - 👯 I’m looking to collaborate on **Web development projects**
 
