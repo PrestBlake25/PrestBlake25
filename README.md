@@ -1,4 +1,4 @@
-<h1 align="center">Hello there👋, I'm Preston!</h2>
+<h1 align="center">Hello there 👋, I'm Preston!</h2>
 <h3 align="center"> 👨🏾‍💻 Mathematics Student at Lehman College, Minors in CS and Stats 🧮</h3>
 <h3>About Me 😎:</h3>
 <ul>
