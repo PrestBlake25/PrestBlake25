@@ -7,7 +7,7 @@
   <li>:thinking: I'm looking to collaborate on Data Science and Web Development projects</li>
   <li>:smile: Pronouns: He/him </li>
   <li> Fun Facts: Gamer 🎮, Traveler ✈️</li>
-  <li>📫 How to reach me **prestonblake35@gmail.com**</li>
+  <li>📫 How to reach me: <strong>prestonblake35@gmail.com</strong></li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
