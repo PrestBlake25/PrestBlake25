@@ -3,10 +3,10 @@
 <h3>About Me 😎:</h3>
 <ul>
   <li>:shushing_face: I am a New Yorker </li>
-  <li>:computer: I'm interested in Data Science and Web Development</li>
-  <li>:thinking: I'm looking to collaborate on Data Science and Web Development projects</li>
+  <li>:computer: I am interested in Data Science and Web Development</li>
+  <li>:thinking: I specialize in Data Science and Web Development</li>
   <li>:smile: Pronouns: He/him </li>
-  <li> Fun Facts: Gamer 🎮, Traveler ✈️</li>
+  <li> Fun Facts: Gamer 🎮, Traveler ✈️,  Sprinter 🏃‍♂️</li>
   <li>📫 How to reach me: <strong>prestonblake35@gmail.com</strong></li>
 </ul>
 
