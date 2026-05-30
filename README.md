@@ -1,6 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Preston!</h2>
 <h3 align="center"> Data Scientist & AI Engineer</h3>
-<h3 align="center"> Education: Mathematics and Computer Science, BA</h4>
+<h3 align="center"> Education: Mathematics and Computer Science, BA from Lehman College</h4>
 <h3>About Me 😎:</h3>
 <ul>
   <li>:shushing_face: I am a New Yorker </li>
