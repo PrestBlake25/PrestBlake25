@@ -1,50 +1,31 @@
-# Hi, I'm Preston Blake 👋
+# Hello there 👋, I'm Preston!
 
-**Data Science & Web Development | Python · R · SQL · JavaScript | New York, NY**
+### 🎓 B.A. in Mathematics & Computer Science (Statistics minor) — Lehman College, CUNY, Class of 2026
 
-Recent Mathematics & Computer Science graduate from Lehman College (CUNY) with a minor in Statistics, actively seeking entry-level roles in data science, data analytics, and web development. MLT Career Fellow Alum, currently enrolled in CodePath's Intermediate Web Development course.
+### About Me 😎:
 
----
+- 🗽 New Yorker, based in NYC
+- 💻 Focused on Data Science, Analytics, and Web Development
+- 🔬 Completed a Data Science Research Fellowship at Microsoft Research
+- 🌱 MLT Career Fellow Alum · ColorStack · CodePath
+- 👀 Currently job searching for entry-level Data Science / Analytics / Web Dev roles in NYC
+- 😄 Pronouns: He/him
+- Fun facts: Gamer 🎮, Traveler ✈️, Sprinter 🏃‍♂️
+- 📫 How to reach me: **prestonblake35@gmail.com** · [LinkedIn](https://www.linkedin.com/in/preston-blake25)
 
-## 🎓 Experience & Programs
+### Languages and Tools:
 
-- **Microsoft Research** — Data Science Research Fellow  
-  Bash/CLI data analysis, awk/grep/cut pipelines, ggplot2 visualizations on NYC open datasets
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="36" height="36" alt="R" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" alt="React" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="36" height="36" alt="HTML5" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="36" height="36" alt="CSS3" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="36" height="36" alt="Supabase" />
 
-- **Research Foundation of CUNY** — Research Assistant  
-  Phylogenetic tree support analysis and computational biology workflows
+**Data & Analysis:** SQL · Pandas · NumPy · Scikit-learn · Tableau · ggplot2 / tidyverse
 
-- **Braven Accelerator** — Lead Researcher  
-  Led a 6-person capstone team conducting a Gen Z social media strategy analysis for the Chicago Sky Foundation
+### 📌 Featured Projects
 
-- **MLT** — Career Fellow Alum  
-  Management Leadership for Tomorrow alumni network targeting entry-level data science roles
-
-- **CodePath** — Technical Interview Prep & Intermediate Web Development  
-  Algorithms, data structures, and interview preparation; currently building full-stack web projects
-
----
-
-## 🛠️ Skills
-
-**Languages:** Python · R · SQL · Bash/CLI · JavaScript · HTML/CSS  
-**Libraries:** Pandas · NumPy · Scikit-learn · ggplot2 · tidyverse  
-**Tools:** Tableau · Excel · Google Sheets · Git · Jupyter
+- **[Applied-AI-System-Project](https://github.com/PrestBlake25/Applied-AI-System-Project)** — CLI tool using RAG to surface top-k songs matching a user's prompt
+- **[Videogame-Sales-Data](https://github.com/PrestBlake25/Videogame-Sales-Data)** — Statistical inference (R) on video game sales data for MAT 327
+- **[BxARP](https://github.com/MHC-Datathon/BxARP)** — Analysis of CUNY student bus routes on camera- vs. non-camera-enforced lines, built for Macaulay Honors College's Fall 2025 Datathon
+- **[PBlakeAdvocacyProject](https://github.com/PrestBlake25/PBlakeAdvocacyProject)** — Advocacy site built for CodePath's Intro to Web Development course
 
 ---
 
-## 📌 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [Applied AI System](https://github.com/PrestBlake25/Applied-AI-System-Project) | RAG-based CLI tool that surfaces top-k songs matching a user prompt | Python |
-| [Video Game Sales Analysis](https://github.com/PrestBlake25/Videogame-Sales-Data) | Statistical inference on a global video game sales dataset | R, ggplot2 |
-| [BxARP Datathon](https://github.com/MHC-Datathon/BxARP) | Examined CUNY student bus routes across camera-enforced vs non-enforced corridors | Python, Jupyter |
-| [Advocacy Project](https://github.com/PrestBlake25/PBlakeAdvocacyProject) | Web advocacy page built during CodePath's Intro to Web Development course | HTML, CSS |
-
----
-
-## 📫 Let's connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-preston--blake25-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/preston-blake25)  
-📧 prestonblake35@gmail.com
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PrestBlake25&show_icons=true&locale=en&theme=default)
